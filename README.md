@@ -67,9 +67,8 @@ These values may differ depending on your Ripes version or connected peripherals
 3. Add the D-Pad peripheral
 4. Check the generated MMIO base addresses
 5. Replace the `.equ` values in the source code if necessary
-<img width="2876" height="1658" alt="image" src="https://github.com/user-attachments/assets/79402cf7-def2-4875-a685-f752ba40a144" />
 These are the values you need to correct.
-
+<img width="2301" height="1295" alt="image" src="https://github.com/user-attachments/assets/c402dec8-cc83-4da6-a081-d4de74cd0e11" />
 If the addresses are incorrect:
 
 * The snake will not render properly
