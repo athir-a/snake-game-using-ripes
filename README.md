@@ -38,9 +38,7 @@ The snake moves on the LED matrix display using memory-mapped D-pad controls.
 * Ripes RISC-V ISA Simulator
 * RISC-V Assembly support enabled
 
-Download Ripes here:
-
-[https://ripes.me/](https://github.com/mortbopet/Ripes)
+Download Ripes [here](https://github.com/mortbopet/Ripes)
 
 ---
 
